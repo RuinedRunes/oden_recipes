@@ -1,0 +1,24 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color:azure;
+}
+
+.header {
+    text-align:center;
+}
+a {
+    display:block;
+    padding:20px;
+    text-decoration: none;
+    color:rgb(44, 44, 44);
+    background-color:rgb(231, 230, 228);
+    overflow:hidden;
+    border: 1px solid black;
+    width:200px;
+}
+a:hover{
+    color:black;
+    background-color:white;
+}
